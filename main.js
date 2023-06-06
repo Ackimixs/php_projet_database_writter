@@ -135,7 +135,7 @@ async function fetchPlaylist(id) {
         }
     });
 
-    // await fetchPlaylist("5cpKaHtZrynMYtA2FvXfo8"); // zzccmxtp
+    await fetchPlaylist("5cpKaHtZrynMYtA2FvXfo8"); // zzccmxtp
     // await fetchPlaylist("2hmLDliFT9mW84XHxRUzwx"); // summer
     // await fetchPlaylist("3vZYzaSfr9HvjaIivjHyAC");
     // await fetchPlaylist("37i9dQZF1DWXTHBOfJ8aI7");
